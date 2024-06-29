@@ -11,3 +11,7 @@ admin car tool, will help you manage players cars.
 
 # How To use
 * `/playercars` or `/playercars CID`  (Must be Admin)
+
+# Dependencies
+ox_lib
+oxmysql
