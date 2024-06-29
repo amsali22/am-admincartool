@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 author 'Markow'
-description 'Car Admin Managment Tool'
+description 'Car Admin Management Tool'
 version '1.0.0'
 lua54 'yes'
 
